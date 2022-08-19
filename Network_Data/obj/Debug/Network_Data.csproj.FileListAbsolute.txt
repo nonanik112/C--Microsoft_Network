@@ -1,0 +1,6 @@
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Network_Data\bin\Debug\Network_Data.dll
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Network_Data\bin\Debug\Network_Data.pdb
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Network_Data\obj\Debug\Network_Data.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Network_Data\obj\Debug\Network_Data.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Network_Data\obj\Debug\Network_Data.dll
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Network_Data\obj\Debug\Network_Data.pdb

@@ -1,0 +1,13 @@
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\bin\Debug\Net_Network.exe.config
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\bin\Debug\Net_Network.exe
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\bin\Debug\Net_Network.pdb
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.Form1.resources
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.Properties.Resources.resources
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.csproj.GenerateResource.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.exe
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.pdb
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\bin\Debug\Network_Data.dll
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\bin\Debug\Network_Data.pdb
+C:\Users\Metehan\Desktop\C# Network Progrmlama\Net_Network\Net_Network\obj\Debug\Net_Network.csproj.CopyComplete
